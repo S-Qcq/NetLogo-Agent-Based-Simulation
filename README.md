@@ -3,7 +3,7 @@ Bidding Market – Simulazione della Formazione del Prezzo con NetLogo
 
 ## Obiettivo
 
-Questo progetto rappresenta un'esplorazione delle potenzialità di NetLogo, un programma per la simulazione ad agenti. Lo scopo dle progetto era quello di riadattare un modello esistente cercando di osservare come si forma e si adatta il prezzo in tre diversi tipi di mercato — monopolio, oligopolio e mercato competitivo.
+Questo progetto rappresenta un'esplorazione delle potenzialità di NetLogo, un programma per la simulazione ad agenti, nell'ambito di un corso universitario sulle tecniche di simulazione del master ADABI. Lo scopo del progetto era quello di riadattare un modello esistente cercando di osservare come si forma e si adatta il prezzo in tre diversi tipi di mercato — monopolio, oligopolio e mercato competitivo.
 
 L'idea di partenza è la teoria microeconomica classica, ma l'approccio utilizzato è quello dei modelli ad agenti: invece di risolvere equazioni e curve di domanda/offerta, ogni agente (compratore o venditore) segue regole comportamentali semplici, e il prezzo di equilibrio emerge dalle interazioni locali tra gli agenti stessi.
 
